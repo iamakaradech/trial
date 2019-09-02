@@ -1,5 +1,2 @@
-function hello (text) {
-  return `Hello, ${text}!`
-}
-
-console.log(hello('Akaradech'))
+const hello = require('./hello')
+console.log(hello(111))
