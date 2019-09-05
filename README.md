@@ -25,5 +25,6 @@ Tiger Woods
 
 # How to run
 ```
+yarn install
 yarn start
 ```
