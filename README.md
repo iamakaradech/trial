@@ -6,3 +6,11 @@ Rick, 3
 Nan, 7
 ```
 Hint: We only want names of people who own more than 2 cars.
+
+# How to run
+```
+chmod +x initaldb.sh
+./initialdb.sh
+yarn install
+yarn start
+```
