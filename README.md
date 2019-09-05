@@ -22,3 +22,8 @@ Christian Ronaldo
 Michael Schumacher
 Tiger Woods
 ```
+
+# How to run
+```
+yarn start
+```
