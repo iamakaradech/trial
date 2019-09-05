@@ -44,3 +44,4 @@ chmod +x initaldb.sh
 ./initialdb.sh
 yarn install
 yarn start
+```
