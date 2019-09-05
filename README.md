@@ -7,3 +7,9 @@ Example: The winning number is 120888
 ```
 [ 000088, 000188, 000288, ..... Etc ]
 ```
+
+# How to run
+```
+yarn install
+yarn start
+```
