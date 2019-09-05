@@ -19,6 +19,25 @@ and bought the following cars:
 - Mini Cooper
 - Honda Jazz
 
+### Using SQLite, design a database schema to store all the information described above.
+### Also, write SQL queries to produce the following report:
+```
+Rick, Corvette Z06
+Rick, Lotus Exite S
+Rick, BMW M3
+John, BMW 320d
+John, Mercedes SLK AMG
+Zing, Toyota Alphard
+Zing, Mercedes Sprinter
+Nan, Toyota Camry
+Nan, Porshe 911
+Nan, BMW M5
+Nan, Jaguar
+Nan, TukTuk
+Nan, Mini Cooper
+Nan, Honda Jazz
+```
+
 # How to run
 ```
 chmod +x initaldb.sh
