@@ -1,4 +1,4 @@
-# Question 6
+# Question 7
 ### Using the same database from Question #6, write an SQL query that returns the
 following report:
 ```
